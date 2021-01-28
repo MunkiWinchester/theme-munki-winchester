@@ -1,0 +1,29 @@
+{
+	"name": "Seahawks",
+	"include": "./dark_vs.json",
+	"semanticTokenColors": {
+		"newOperator": "#C586C0",
+		"stringLiteral": "#ce9178",
+		"customLiteral": "#DCDCAA",
+		"numberLiteral": "#b5cea8"
+	},
+	"workbench.colorCustomizations": {
+		"activityBar.activeBackground": "#2D5980",
+		"activityBar.activeBorder": "#7AC142",
+		"activityBar.background": "#002A5C",
+		"activityBar.foreground": "#E7E7E7",
+		"activityBar.inactiveForeground": "#B2B7BB",
+		"activityBarBadge.background": "#7AC142",
+		"activityBarBadge.foreground": "#002A5C",
+		"statusBar.background": "#002A5C",
+		"statusBar.foreground": "#E7E7E7",
+		"statusBar.noFolderBackground": "#002A5C",
+		"statusBar.debuggingBackground": "#7AC142",
+		"statusBar.debuggingForeground": "#000000",
+		"statusBarItem.hoverBackground": "#2D5980",
+		"titleBar.activeBackground": "#002A5C",
+		"titleBar.activeForeground": "#E7E7E7",
+		"titleBar.inactiveBackground": "#002A5C",
+		"titleBar.inactiveForeground": "#B2B7BB"
+	}
+}

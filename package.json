@@ -1,0 +1,24 @@
+{
+    "name": "theme-munki-winchester",
+    "displayName": "%displayName%",
+    "description": "%description%",
+    "categories": [
+        "Themes"
+    ],
+    "version": "1.0.0",
+    "publisher": "Eike Stremlau",
+    "license": "MIT",
+    "engines": {
+        "vscode": "*"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "id": "Seahawks",
+                "label": "%SeahawksThemeLabel%",
+                "uiTheme": "vs-dark",
+                "path": "./themes/seahawks.json"
+            }
+        ]
+    }
+}
