@@ -18,6 +18,12 @@
                 "label": "%SeahawksThemeLabel%",
                 "uiTheme": "vs-dark",
                 "path": "./themes/seahawks.json"
+            },
+            {
+                "id": "Rams",
+                "label": "%RAMSThemeLabel%",
+                "uiTheme": "vs-dark",
+                "path": "./themes/rams.json"
             }
         ]
     }

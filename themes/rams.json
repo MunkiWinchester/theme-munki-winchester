@@ -1,0 +1,29 @@
+{
+	"name": "Rams",
+	"include": "./dark_plus.json",
+	"semanticTokenColors": {
+		"newOperator": "#C586C0",
+		"stringLiteral": "#ce9178",
+		"customLiteral": "#DCDCAA",
+		"numberLiteral": "#b5cea8"
+	},
+	"colors": {
+		"activityBar.activeBackground": "#FF8200",
+		"activityBar.activeBorder": "#FFA300",
+		"activityBar.background": "#002244",
+		"activityBar.foreground": "#FFFFFF",
+		"activityBar.inactiveForeground": "#FFD100",
+		"activityBarBadge.background": "#FFA300",
+		"activityBarBadge.foreground": "#FFFFFF",
+		"statusBar.background": "#002244",
+		"statusBar.foreground": "#FFD100",
+		"statusBar.noFolderBackground": "#002244",
+		"statusBar.debuggingBackground": "#FFA300",
+		"statusBar.debuggingForeground": "#0E0E0E",
+		"statusBarItem.hoverBackground": "#003594",
+		"titleBar.activeBackground": "#002244",
+		"titleBar.activeForeground": "#FFFFFF",
+		"titleBar.inactiveBackground": "#002244",
+		"titleBar.inactiveForeground": "#B2B7BB"
+	}
+}

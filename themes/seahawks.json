@@ -1,13 +1,13 @@
 {
 	"name": "Seahawks",
-	"include": "./dark_vs.json",
+	"include": "./dark_plus.json",
 	"semanticTokenColors": {
 		"newOperator": "#C586C0",
 		"stringLiteral": "#ce9178",
 		"customLiteral": "#DCDCAA",
 		"numberLiteral": "#b5cea8"
 	},
-	"workbench.colorCustomizations": {
+	"colors": {
 		"activityBar.activeBackground": "#2D5980",
 		"activityBar.activeBorder": "#7AC142",
 		"activityBar.background": "#002A5C",
@@ -19,7 +19,7 @@
 		"statusBar.foreground": "#E7E7E7",
 		"statusBar.noFolderBackground": "#002A5C",
 		"statusBar.debuggingBackground": "#7AC142",
-		"statusBar.debuggingForeground": "#000000",
+		"statusBar.debuggingForeground": "#0E0E0E",
 		"statusBarItem.hoverBackground": "#2D5980",
 		"titleBar.activeBackground": "#002A5C",
 		"titleBar.activeForeground": "#E7E7E7",
