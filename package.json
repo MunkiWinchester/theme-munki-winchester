@@ -14,16 +14,22 @@
     "contributes": {
         "themes": [
             {
-                "id": "Seahawks",
+                "id": "Munki Winchester Seahawks",
                 "label": "%SeahawksThemeLabel%",
                 "uiTheme": "vs-dark",
                 "path": "./themes/seahawks.json"
             },
             {
-                "id": "Rams",
-                "label": "%RAMSThemeLabel%",
+                "id": "Munki Winchester Rams",
+                "label": "%RamsThemeLabel%",
                 "uiTheme": "vs-dark",
                 "path": "./themes/rams.json"
+            },
+            {
+                "id": "Munki Winchester Chiefs",
+                "label": "%ChiefsThemeLabel%",
+                "uiTheme": "vs-dark",
+                "path": "./themes/chiefs.json"
             }
         ]
     }

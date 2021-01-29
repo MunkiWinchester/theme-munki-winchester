@@ -1,6 +1,7 @@
 {
     "displayName": "Munki Winchesters Themes",
     "description": "The themes created by Munki Winchester",
-    "SeahawksThemeLabel": "Seahawks",
-    "RAMSThemeLabel": "Rams"
+    "SeahawksThemeLabel": "Munki Winchester Seahawks",
+    "RamsThemeLabel": "Munki Winchester Rams",
+    "ChiefsThemeLabel": "Munki Winchester Chiefs"
 }
