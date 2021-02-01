@@ -1,0 +1,29 @@
+{
+	"name": "Manitoba",
+	"include": "./dark_plus.json",
+	"semanticTokenColors": {
+		"newOperator": "#C586C0",
+		"stringLiteral": "#ce9178",
+		"customLiteral": "#DCDCAA",
+		"numberLiteral": "#b5cea8"
+	},
+	"colors": {
+		"activityBar.activeBackground": "#d44e28",
+		"activityBar.activeBorder": "#2cbcb2",
+		"activityBar.background": "#242021",
+		"activityBar.foreground": "#E7E7E7",
+		"activityBar.inactiveForeground": "#B2B7BB",
+		"activityBarBadge.background": "#2cbcb2",
+		"activityBarBadge.foreground": "#242021",
+		"statusBar.background": "#242021",
+		"statusBar.foreground": "#E7E7E7",
+		"statusBar.noFolderBackground": "#242021",
+		"statusBar.debuggingBackground": "#2cbcb2",
+		"statusBar.debuggingForeground": "#0E0E0E",
+		"statusBarItem.hoverBackground": "#d44e28",
+		"titleBar.activeBackground": "#242021",
+		"titleBar.activeForeground": "#E7E7E7",
+		"titleBar.inactiveBackground": "#242021",
+		"titleBar.inactiveForeground": "#B2B7BB"
+	}
+}

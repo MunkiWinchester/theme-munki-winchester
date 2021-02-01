@@ -30,6 +30,12 @@
                 "label": "%ChiefsThemeLabel%",
                 "uiTheme": "vs-dark",
                 "path": "./themes/chiefs.json"
+            },
+            {
+                "id": "Munki Winchester Manitoba",
+                "label": "%ManitobaThemeLabel%",
+                "uiTheme": "vs-dark",
+                "path": "./themes/manitoba.json"
             }
         ]
     }
