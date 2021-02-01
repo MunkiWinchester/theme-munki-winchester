@@ -36,6 +36,12 @@
                 "label": "%ManitobaThemeLabel%",
                 "uiTheme": "vs-dark",
                 "path": "./themes/manitoba.json"
+            },
+            {
+                "id": "Munki Winchester Cyberpunk V1",
+                "label": "%CyberpunkV1ThemeLabel%",
+                "uiTheme": "vs-dark",
+                "path": "./themes/cyberpunk_v1.json"
             }
         ]
     }
