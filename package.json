@@ -42,6 +42,12 @@
                 "label": "%CyberpunkV1ThemeLabel%",
                 "uiTheme": "vs-dark",
                 "path": "./themes/cyberpunk_v1.json"
+            },
+            {
+                "id": "Munki Winchester Blue Orange",
+                "label": "%BlueOrangeThemeLabel%",
+                "uiTheme": "vs-dark",
+                "path": "./themes/blue_orange.json"
             }
         ]
     }
