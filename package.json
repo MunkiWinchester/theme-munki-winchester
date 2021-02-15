@@ -6,10 +6,17 @@
         "Themes"
     ],
     "version": "1.0.0",
-    "publisher": "Eike Stremlau",
+    "publisher": "MunkiWinchester",
     "license": "MIT",
     "engines": {
         "vscode": "*"
+    },
+    "extensionPack": [
+        "MunkiWinchester.Themes"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/MunkiWinchester/theme-munki-winchester.git"
     },
     "contributes": {
         "themes": [
