@@ -1,0 +1,29 @@
+{
+    "name": "Blue Orange",
+    "include": "./../dark_plus.json",
+    "semanticTokenColors": {
+        "newOperator": "#C586C0",
+        "stringLiteral": "#ce9178",
+        "customLiteral": "#DCDCAA",
+        "numberLiteral": "#b5cea8"
+    },
+    "colors": {
+        "activityBar.activeBackground": "#FFBA08",
+        "activityBar.activeBorder": "#D00000",
+        "activityBar.background": "#03071E",
+        "activityBar.foreground": "#9D0208",
+        "activityBar.inactiveForeground": "#FFBA08",
+        "activityBarBadge.background": "#D00000",
+        "activityBarBadge.foreground": "#FFBA08",
+        "statusBar.background": "#03071E",
+        "statusBar.foreground": "#FFBA08",
+        "statusBar.noFolderBackground": "#03071E",
+        "statusBar.debuggingBackground": "#D00000",
+        "statusBar.debuggingForeground": "#FFBA08",
+        "statusBarItem.hoverBackground": "#6A040F",
+        "titleBar.activeBackground": "#03071E",
+        "titleBar.activeForeground": "#FFBA08",
+        "titleBar.inactiveBackground": "#03071E",
+        "titleBar.inactiveForeground": "#FFBA08"
+    }
+}

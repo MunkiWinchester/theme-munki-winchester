@@ -1,0 +1,29 @@
+{
+    "name": "Cyberpunk V1",
+    "include": "./../dark_plus.json",
+    "semanticTokenColors": {
+        "newOperator": "#C586C0",
+        "stringLiteral": "#ce9178",
+        "customLiteral": "#DCDCAA",
+        "numberLiteral": "#b5cea8"
+    },
+    "colors": {
+        "activityBar.activeBackground": "#96ffbe",
+        "activityBar.activeBorder": "#F24BFF",
+        "activityBar.background": "#541042",
+        "activityBar.foreground": "#AD228D",
+        "activityBar.inactiveForeground": "#96FFBE",
+        "activityBarBadge.background": "#F24BFF",
+        "activityBarBadge.foreground": "#96FFBE",
+        "statusBar.background": "#541042",
+        "statusBar.foreground": "#96FFBE",
+        "statusBar.noFolderBackground": "#541042",
+        "statusBar.debuggingBackground": "#F24BFF",
+        "statusBar.debuggingForeground": "#96FFBE",
+        "statusBarItem.hoverBackground": "#AD228D",
+        "titleBar.activeBackground": "#541042",
+        "titleBar.activeForeground": "#96FFBE",
+        "titleBar.inactiveBackground": "#541042",
+        "titleBar.inactiveForeground": "#96FFBE"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Green Yellow",
+    "include": "./../dark_plus.json",
+    "semanticTokenColors": {
+        "newOperator": "#C586C0",
+        "stringLiteral": "#ce9178",
+        "customLiteral": "#DCDCAA",
+        "numberLiteral": "#b5cea8"
+    },
+    "colors": {
+        "activityBar.activeBackground": "#00c41f",
+        "activityBar.activeBorder": "#dcff00",
+        "activityBar.background": "#1a1a1a",
+        "activityBar.foreground": "#e9f2f1",
+        "activityBar.inactiveForeground": "#e9f2f1",
+        "activityBarBadge.background": "#dcff00",
+        "activityBarBadge.foreground": "#1a1a1a",
+        "statusBar.background": "#1a1a1a",
+        "statusBar.foreground": "#e9f2f1",
+        "statusBar.noFolderBackground": "#1a1a1a",
+        "statusBar.debuggingBackground": "#dcff00",
+        "statusBar.debuggingForeground": "#0E0E0E",
+        "statusBarItem.hoverBackground": "#b3f700",
+        "titleBar.activeBackground": "#1a1a1a",
+        "titleBar.activeForeground": "#e9f2f1",
+        "titleBar.inactiveBackground": "#1a1a1a",
+        "titleBar.inactiveForeground": "#e9f2f1"
+    }
+}
